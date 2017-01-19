@@ -8,3 +8,18 @@
   - **La Saint-Etienne** la escopeta
   - **estampido** el sonido del dispara
   - **alucinar** to hallucinate
+  
+#### Definan los elementos
+ - **Exposición** Como el principio de un cuento
+ - **Desarrollo** También alrededor el principio
+ - **Suspenso** Que pasa?
+ - **Punto Decisivo** Una consequencía? 
+ - **Climax** 
+ - **Desenlace** Winding down
+ - **Tema** 
+ 
+ ## Prueba 1 la fecha limitante 12 horas
+  - Lecturas de Quiroga
+   - pp 1-20
+   - pp 42-46
+   - pp 50-53
