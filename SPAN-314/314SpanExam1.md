@@ -23,3 +23,17 @@
    - pp 1-20
    - pp 42-46
    - pp 50-53
+
+## Emilia Pardo Bazán 
+ - Profesora de literaturas neolatinas (Romance) 
+ - Se mudó con su esposo a Madrid y Paris
+ - Novelista, cuentista, poeta, introdujo el naturalismo en España. 
+ 
+#### Contexto del naturalismo
+ - **Internacional:** Revolucion industrias, avances tecnologicos
+ - **Espana** el fin del imperio espanol, deterioro social
+ -** El realismo** razón toma el lugar del romanticismo (sentimiento) 
+
+#### Rasgos del realisom 
+ - Opinión del narrador 
+ - Id
