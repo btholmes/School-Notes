@@ -10,4 +10,4 @@
  
 # TODO Weekend
  - Python web crawler
- 
+ - Nomads Camera functionality is important
